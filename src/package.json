@@ -1,0 +1,26 @@
+{
+  "name": "angular-google-chart",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poychang/angular-google-chart"
+  },
+  "author": {
+    "name": "PoyChang",
+    "email": "poypost@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poychang/angular-google-chart/issues"
+  },
+  "module": "angular-google-chart.js",
+  "typings": "angular-google-chart.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
